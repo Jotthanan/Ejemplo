@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Escuela>
+  <alumno carrera="informática">
+    <nc>19290300</nc>
+    <nombre>Enrique Orozco</nombre>
+  </alumno>
+  <alumno carrera="informática">
+    <nc>19290440</nc>
+    <nombre>Fernando Artiaga</nombre>
+  </alumno>
+</Escuela>
